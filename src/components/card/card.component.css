@@ -1,0 +1,8 @@
+.card-item{
+    width: 10rem;
+    margin-right: 1.8rem;
+    border:0.1rem solid lightslategray;
+    background-image: linear-gradient(to right, #d5eeee, #afeeee);
+    margin-bottom: 0.5rem;
+
+}
